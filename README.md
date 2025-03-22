@@ -1,0 +1,2 @@
+# ShurikengeBot
+Bot for Discord
